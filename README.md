@@ -12,6 +12,6 @@
 - **edmissions.co:** A project related to admissions in educational institutions.
 - **JavaScript Rock-Paper-Scissors:** A fun implementation of the classic game using JavaScript.
 
-📊 I’m currently focusing on machine learning applications in healthcare. My GitHub showcases various projects that reflect my dedication to coding and continuous learning.
+📊 My GitHub showcases various projects that reflect my dedication to coding and continuous learning.
 
 🚀 Let’s connect and collaborate on exciting projects that push the boundaries of technology!
