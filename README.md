@@ -1,6 +1,6 @@
 👋 Hi, I’m Akif Ur Rahman, a Computer Science Engineering graduate passionate about technology and innovation.
 
-💻 I’m proficient in programming languages such as Java, Python, C++, and web development technologies including HTML, CSS, and JavaScript. I have experience with frameworks like Spring Boot and Flask for building full-stack applications.
+💻 I’m proficient in programming languages such as Java, Python, C++, and web development technologies including HTML, CSS, PHP and JavaScript. I have experience with frameworks like Spring Boot and Flask for building full-stack applications.
 
 🔍 **Projects:**
 - **Heart Disease Prediction System:** Developed a full-stack application using Spring Boot and JSP, integrating a machine learning model through Python APIs to predict heart disease.
