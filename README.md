@@ -4,7 +4,7 @@
 
 🔍 **Projects:**
 - **Heart Disease Prediction System:** Developed a full-stack application using Spring Boot and JSP, integrating a machine learning model through Python APIs to predict heart disease.
-- **Patient Test System:** Created a platform for managing patient tests, allowing users to input details and retrieve results seamlessly.
+- **Fake News Detection:** Implemented a project to identify and flag fake news articles.
 - **Blogger:** A test website that fetches articles.
 - **GymTicket:** A website prototype for a health and fitness startup.
 - **About Me:** A simple personal webpage.
