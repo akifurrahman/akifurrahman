@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m Akif Ur Rahman, a Computer Science Engineering graduate passionate about technology and innovation.
 
-<!--
-**akifurrahman/akifurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m proficient in programming languages such as Java, Python, C++, and web development technologies including HTML, CSS, and JavaScript. I have experience with frameworks like Spring Boot and Flask for building full-stack applications.
 
-Here are some ideas to get you started:
+🔍 **Projects:**
+- **Heart Disease Prediction System:** Developed a full-stack application using Spring Boot and JSP, integrating a machine learning model through Python APIs to predict heart disease.
+- **Patient Test System:** Created a platform for managing patient tests, allowing users to input details and retrieve results seamlessly.
+- **Blogger:** A test website that fetches articles.
+- **GymTicket:** A website prototype for a health and fitness startup.
+- **About Me:** A simple personal webpage.
+- **JNTUH-Results:** A service where users can access their examination results.
+- **edmissions.co:** A project related to admissions in educational institutions.
+- **JavaScript Rock-Paper-Scissors:** A fun implementation of the classic game using JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I’m currently focusing on machine learning applications in healthcare. My GitHub showcases various projects that reflect my dedication to coding and continuous learning.
+
+🚀 Let’s connect and collaborate on exciting projects that push the boundaries of technology!
