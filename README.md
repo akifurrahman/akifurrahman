@@ -8,8 +8,8 @@
 - **Blogger:** A test website that fetches articles.
 - **GymTicket:** A website prototype for a health and fitness startup.
 - **About Me:** A simple personal webpage.
-- **JNTUH-Results:** A service where users can access their examination results.
-- **edmissions.co:** A project related to admissions in educational institutions.
+- **JNTUH-Results:** A website prototype for a service where users can access their examination results.
+- **edmissions.co:** A full stack application for a startup dealing with admissions in educational institutions.
 - **JavaScript Rock-Paper-Scissors:** A fun implementation of the classic game using JavaScript.
 
 📊 My GitHub showcases various projects that reflect my dedication to coding and continuous learning.
